@@ -8,7 +8,7 @@ This repo contains my work for the challenge that corresponds to Module 20 of th
 
 ---
 
-## Deliverable
+## Deliverables
 
 Notebook: [Credit_Risk/credit_risk_classification.ipynb](Credit_Risk/credit_risk_classification.ipynb)
 
